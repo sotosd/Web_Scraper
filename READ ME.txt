@@ -1,0 +1,10 @@
+*Python Version  2.7 
+
+Implementation of a scraper in python
+Scraping data for restaurants in TripAdvisor
+Gathering specific information and saving them into a csv file.
+It works for multiple pages of entries.
+
+Run script: $ python Scraper.py
+
+ 
